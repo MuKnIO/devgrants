@@ -171,8 +171,8 @@ alex@mukn.io
 - https://linkedin.com/in/alex-knauth
 
 ### Team Website
-https://glow-lang.org
-https://mukn.io
+- https://glow-lang.org
+- https://mukn.io
 
 ### Relevant Experience
 Relevant previous work by our contributors are listed in our Wiki:
@@ -209,7 +209,7 @@ Debugging at that level of abstraction is nigh impossible.
 
 ### Introducing *Glow*: a DSL for DApps
 
-[*Glow*](https://glow-lang.org) is [Mutual Knowledge Systems’][https://mukn.io]
+[*Glow*](https://glow-lang.org) is [Mutual Knowledge Systems’](https://mukn.io)
 DSL for DApps — a Domain Specific Language for Decentralized Applications.
 Compared to Solidity or Rust or Plutus, it offers a much higher level of abstraction:
 mutually-distrusting participants are a builtin concept,
